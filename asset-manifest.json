@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Resturent-Website/static/js/main.b87460b3.js",
+    "static/media/hero.png": "/Resturent-Website/static/media/hero.fac19e0f2cbb5be17b6c.png",
+    "static/media/about-4.jpg": "/Resturent-Website/static/media/about-4.e5ebcd541d386b69ad28.jpg",
+    "static/media/about-1.jpg": "/Resturent-Website/static/media/about-1.9fe6c75c4791fa3532da.jpg",
+    "static/media/about-2.jpg": "/Resturent-Website/static/media/about-2.0c0ef7e55155ddcfa5bd.jpg",
+    "static/media/about-3.jpg": "/Resturent-Website/static/media/about-3.174ecd5e7e375eca4e46.jpg",
+    "static/media/team-4.jpg": "/Resturent-Website/static/media/team-4.f728a531be269b3d471d.jpg",
+    "static/media/team-3.jpg": "/Resturent-Website/static/media/team-3.d917072105ceb2beb47e.jpg",
+    "static/media/team-2.jpg": "/Resturent-Website/static/media/team-2.a052551d15a289c07a6f.jpg",
+    "static/media/team-1.jpg": "/Resturent-Website/static/media/team-1.92658d94c39d7c348ed6.jpg",
+    "index.html": "/Resturent-Website/index.html",
+    "main.b87460b3.js.map": "/Resturent-Website/static/js/main.b87460b3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b87460b3.js"
+  ]
+}
